@@ -4,6 +4,7 @@ using namespace std;
 typedef long long ll;
 
 ll p,a,x,y,r,c1,c2,m;
+#print(a)
 
 ll qpow(ll r, ll n, ll mod){//计算a^n % mod
     ll re = 1;
